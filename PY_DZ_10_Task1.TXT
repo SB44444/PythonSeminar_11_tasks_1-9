@@ -1,4 +1,4 @@
-
+https://github.com/SB44444/PythonSeminar_11_tasks_1-9.git
 
 1)Прочесть с помощью pandas файл california_housing_test.csv
 2)Посмотреть сколько в нем строк и столбцов
